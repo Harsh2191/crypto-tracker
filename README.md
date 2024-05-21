@@ -12,11 +12,14 @@ Crypto Tracker is a web application designed to help users track their cryptocur
 - **wishlist creation**: create your wishlist of your favourite crypto and track them in real time
 
 ## Screenshots
+## ![Screenshot (1215)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/e1263bf4-33ee-46dd-a734-4875eafd78b2)
+![Screenshot (1216)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/85480af7-28cb-441e-917c-723adb521b6d)
+![Screenshot (1217)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/097334f7-dce2-440a-b49c-77b69d20f99f)
+
+![Screenshot (1217)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/7b3ea596-3940-4bab-86fa-da872f9fef36)
 
 
-## Technol![Screenshot (1215)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/e1263bf4-33ee-46dd-a734-4875eafd78b2)
-ogies Used
-
+Technologies used
 - **Frontend**:
   - React
   - Material-UI
