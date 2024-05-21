@@ -13,19 +13,9 @@ Crypto Tracker is a web application designed to help users track their cryptocur
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](path/to/dashboard-screenshot.png)
 
-### Add Crypto
-![Add Crypto](path/to/add-crypto-screenshot.png)
-
-### Crypto Details
-![Crypto Details](path/to/crypto-details-screenshot.png)
-
-### Login
-![Login](path/to/login-screenshot.png)
-
-## Technologies Used
+## Technol![Screenshot (1215)](https://github.com/Harsh2191/crypto-tracker/assets/149939528/e1263bf4-33ee-46dd-a734-4875eafd78b2)
+ogies Used
 
 - **Frontend**:
   - React
